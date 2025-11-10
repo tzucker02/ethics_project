@@ -149,24 +149,29 @@ Further code & data: https://github.com/Weixin-Liang/ChatGPT-Detector-Bias/tree/
 
 # Appendix IV – Tables
 Table 1. Studies on AI Detection and ESL Writers
-Study / Report	Key Findings on ESL / L2 Writers	False‑Positive Rate / Metric
-Center for Democracy & Technology brief (based on Stanford study)	AI detectors work almost perfectly on native‑speaker essays; 61 % of non‑native essays flagged; 19 % unanimously flagged; 97 % flagged by at least one detector.	61 % (non‑native)
-The Markup (Mathewson 2023)	Replicated Stanford results; ~60 % false positives for ESL writers.	~60 %
-Turnitin internal blog	Acknowledges bias toward ELL writers; <1 % overall false positives, but ≥20 % of text flagged when AI content <20 %, especially for ESL writers.	<1 % overall; higher for ESL
+
+| Study / Report | Key Findings on ESL / L2 Writers | False‑Positive Rate / Metric |
+|-----|-----|-----|
+| Center for Democracy & Technology brief (based on Stanford study) | AI detectors work almost perfectly on native‑speaker essays | 61 % of non‑native essays flagged; 19 % unanimously flagged; 97 % flagged by at least one detector.	61 % (non‑native) | |
+| The Markup (Mathewson 2023) Replicated Stanford results |  ~60 % false positives for ESL writers.	~60 %
+Turnitin internal blog	Acknowledges bias toward ELL writers | <1 % overall false positives, but ≥20 % of text flagged when AI content <20 %, especially for ESL writers.	<1 % overall higher for ESL | |
+
 Table 2. Comparison of a few AI Detection / Humanizer Tools
-Checker	Website	Offers Humanizer?	Comment
-JustDone	https://app.justdone.ai/	Yes	Subscription required
-GPTZero	https://gptzero.me/	No	Subscription required
-Undetectable	https://undetectable.ai/	Yes	Money‑back guarantee if output is flagged
-Grammarly	https://app.grammarly.com/	Yes	Subscription required; detected 12 % AI likelihood in test
-Copyleaks	https://copyleaks.com/	No	>99 % accuracy claimed; supports 30+ languages
-HumanizeAI	https://humanizeai.pro/	Yes	Free, transforms AI text to human‑like
-BypassGPT	https://bypassgpt.co/	Limited (up to 2000 chars)	Claims to evade detection
-WinstonAI	https://gowinston.ai/	No	Claims 99.98 % accuracy (trial)
-BrandWell	https://brandwell.ai/	Yes (2500‑word limit)	First‑stage prototype
-OriginalityAI	https://originality.ai/	No	Claims 80 % detection accuracy
-Writefull (plugin)	https://writefull.com/	—	Grammar & style aid
-Appendix V – Alternate Solutions
+| Checker | Website | Offers Humanizer? | Comment |
+|-----|-----|-----|-----|
+| JustDone | https://app.justdone.ai/ | Yes | Subscription required |
+| GPTZero | https://gptzero.me/ | No | Subscription required |
+| Undetectable | https://undetectable.ai/ | Yes | Money‑back guarantee if output is flagged |
+| Grammarly | https://app.grammarly.com/ | Yes | Subscription required; detected 12 % AI likelihood in test | 
+| Copyleaks | https://copyleaks.com/ | No | >99 % accuracy claimed; supports 30+ languages | 
+| HumanizeAI | https://humanizeai.pro/ | Yes | Free, transforms AI text to human‑like | 
+| BypassGPT | https://bypassgpt.co/ | Limited (up to 2000 chars) | Claims to evade detection | 
+| WinstonAI | https://gowinston.ai/ | No | Claims 99.98 % accuracy (trial) | 
+| BrandWell | https://brandwell.ai/ | Yes (2500‑word limit) | First‑stage prototype | 
+| OriginalityAI | https://originality.ai/ | No | Claims 80 % detection accuracy | 
+| Writefull (plugin) | https://writefull.com/ |  | Grammar & style aid | 
+
+# Appendix V – Alternate Solutions
 Technical Solutions
 Pangram Labs AI Detection – aims to reduce false positives for ESL students.
 
