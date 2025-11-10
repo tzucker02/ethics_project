@@ -12,3 +12,14 @@
 | State Education Agency    | High  | Low‑Medium| Keep Satisfied | • Submit compliance summary |
 | Student Government        | Low‑Medium| High | Keep Informed | • Invite to review meetings |
 | General Public / Media    | Low   | Low      | Monitor | • Prepare press kit (on‑demand) |
+
+# Implementation Timeline for AI‑Detector Policy (ELL Focus)
+
+| Phase | Duration | Main Goal | Decision Point |
+|-------|----------|-----------|----------------|
+| **0 – Initiation & Governance** | 2 weeks | Secure sponsorship, define scope, assemble steering team | Go/No‑Go to Phase 1 |
+| **1 – Discovery & Requirements** | 4 weeks | Gather evidence, map workflows, capture stakeholder needs | Approve Requirements → Phase 2 |
+| **2 – Policy Draft & Legal Review** | 3 weeks | Write policy language, embed bias‑mitigation clauses, obtain legal sign‑off | Legal Sign‑off → Phase 3 |
+| **3 – Technical Pilot** | 6 weeks (1 semester) | Deploy a limited‑scope detector + human‑review workflow in 2‑3 courses | Pilot Evaluation → Phase 4 |
+| **4 – Full‑Scale Roll‑out** | 8 weeks (2 semesters) | Institution‑wide adoption, training, support infrastructure | Roll‑out Review → Phase 5 |
+| **5 – Monitoring & Continuous Improvement** | Ongoing (quarterly) | Track metrics, refine policy, update tools | Annual Review (renew or revise) |
