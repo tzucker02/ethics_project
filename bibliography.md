@@ -1,0 +1,42 @@
+# Bibliography
+
+- **Academic Integrity.** (2025). *Office of the Dean of Faculty*. https://deanoffaculty.cornell.edu/faculty-and-academic-affairs/academic-integrity/
+- Alsharefeen, R. (2025). Frontiers | Faculty as street‑level bureaucrats: discretionary decision‑making in the era of generative AI. https://doi.org/10.3389/feduc.2025.1662657
+- Berman, L. (2025). *Professors shift many essay‑based assessments to in‑person exams amid AI concerns*. https://www.tuftsdaily.com/article/2025/10/professors-shift-many-essay-based-assessments-to-in-person-exams-amid-ai-concerns
+- Bohannon, M. (2023). *Lawyer Used ChatGPT In Court—And Cited Fake Cases. A Judge Is Considering Sanctions*. https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/
+- BU. (2023). *Generative AI Assistance Policy*. https://www.bu.edu/files/2023/02/GAIA-Final-2023.pdf
+- Cambridge. (2025). *What is a Baseline Assessment?* https://www.cambridge.org/insight/baseline-assessments
+- Castellanos‑Canales, A. (2025). *Explainer: Revocation of Student Visas and Termination of SEVIS Records*. https://forumtogether.org/article/explainer-revocation-of-student-visas-and-termination-of-sevis-records/
+- Check, E. (2025). *False Positives in AI Detection: Are We Wrongly Accusing Students?* https://essaycheck.ai/blog/false-positives-in-ai-detection
+- Chen, H., & Wang, A. (2024). *Ethical use of generative AI for writing practices: Addressing linguistically diverse students in U.S. Universities’ AI statements*. *Journal of Second Language Writing*, 66, 101157. https://doi.org/10.1016/j.jslw.2024.101157
+- Cohen, S. (2024). *AI detectors: An ethical minefield*. Center for Innovative Teaching and Learning. https://citl.news.niu.edu/2024/12/12/ai-detectors-an-ethical-minefield/
+- D’Agostino, S. (2023). *Turnitin’s AI Detector: Higher‑Than‑Expected False Positives*. https://www.insidehighered.com/news/quick-takes/2023/06/01/turnitins-ai-detector-higher-expected-false-positives
+- Furze, L. (2024). *AI Detection in Education is a Dead End*. https://leonfurze.com/2024/04/09/ai-detection-in-education-is-a-dead-end/
+- Giray, L. (2024). *The Problem with False Positives: AI Detection Unfairly Accuses Scholars of AI Plagiarism*. *The Serial Librarian*, 85(5‑6), 181‑189. https://doi.org/10.1080/0361526X.2024.2433256
+- Hirsch, A. (2024). *AI detectors: An ethical minefield*. Center for Innovative Teaching and Learning. https://citl.news.niu.edu/2024/12/12/ai-detectors-an-ethical-minefield/
+- Horn, T. J., & Polce, J. (2024). *Lies, Damned Lies, and AI: Lie‑Detecting AI May Expose Employers to Liability*. Venable LLP. https://www.venable.com/insights/publications/2024/04/lies-damned-lies-and-ai-lie-detecting-ai-may-expose-employers-to-liability/
+- Jones, M. (2025). *Bloom’s Taxonomy Updated to Include AI*. (conference presentation). 
+- Kratzer, A. (2020). *The Why and How of a Baseline Writing Assignment*. https://angiekratzer.com/the-why-and-how-of-a-baseline-writing-assignment/
+- Liu, Y., et al. (2025). *Pangram Labs AI Detection*. https://www.pangram.com/
+- Mahoney, S. H. (2023). *The 8 Most Accurate AI Text Detectors You Can Try*. https://www.makeuseof.com/accurate-ai-text-detectors/
+- Markey, E. (2024). *Senator Markey Introduces AI Civil Rights Act to Eliminate AI Bias*. https://www.markey.senate.gov/news/press-releases/senator-markey-introduces-ai-civil-rights-act-to-eliminate-ai-bias-enact-guardrails-on-use-of-algorithms-in-decisions-impacting-peoples-rights-civil-liberties-livelihoods
+- Mathewson, T. G. (2023). *AI Detection Tools Falsely Accuse International Students of Cheating – The Markup*. https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating
+- McLogan, J. (2025). *Adelphi University facing lawsuit after AI‑assisted plagiarism accusation against student*. https://www.cbsnews.com/newyork/news/adelphi-university-artificial-intelligence-plagiarism-lawsuit/
+- Myers, A. (2023). *AI‑Detectors Biased Against Non‑Native English Writers*. Stanford HAI. https://hai.stanford.edu/news/ai-detectors-biased-against-non-native-english-writers
+- Najarro, I. (2023). *What Teachers Should Know Before Using AI With English Learners*. Education Week. https://www.edweek.org/teaching-learning/what-teachers-should-know-before-using-ai-with-english-learners/2023/10
+- Owen, P. (2024). *More Teachers Are Using AI‑Detection Tools. Here’s Why That Might Be a Problem*. Education Week. https://www.edweek.org/technology/more-teachers-are-using-ai-detection-tools-heres-why-that-might-be-a-problem/2024/04
+- Palmer‑Clarke, Y. (2025). *Research Guides: English as an Additional Language: Using Artificial Intelligence*. https://libguides.usask.ca/c.php?g=109857&p=5362687
+- Prothero, A. (2024). *More Teachers Are Using AI‑Detection Tools. Here’s Why That Might Be a Problem*. Education Week. https://www.edweek.org/technology/more-teachers-are-using-ai-detection-tools-heres-why-that-might-be-a-problem/2024/04
+- Rao, K. (2025). *Emerging Theories of Liability in the Age of AI: A New Frontier for Litigation*. Rain Intelligence Research. https://www.rainintelligence.com/blog/emerging-theories-of-liability-in-the-age-of-ai-a-new-frontier-for-litigation
+- Shen, L. (2025). *AI‑Detection Tools Are Ineffective*. Center for Academic Innovation. https://facultyhub.chemeketa.edu/technology/generative-ai/why-ai-detection-tools-are-ineffective/
+- Singh, R. (2025). *AI‑Detection Tools Falsely Accuse International Students of Cheating – The Markup*. https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating
+- Tian, E. (2023). *ESL Bias in AI Detection Is an Outdated Narrative*. https://gptzero.me/news/esl-and-ai-detection/
+- Turner, J. (2025). *AI‑Detection Tools: Ethical Minefield*. Center for Innovative Teaching and Learning. https://citl.news.niu.edu/2024/12/12/ai-detectors-an-ethical-minefield/
+- University of Rochester. (2025). *International Students*. https://www.rochester.edu/college/honesty/students/international.html
+- University of Texas at Austin. (2025). *AI Detection Software Guidance*. https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ai-detection-software-guidance/
+- Vanderbilt University. (2023). *Academic‑Affairs Guidance for Artificial Intelligence*. https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/439/2023/11/29200845/Academic-Affairs-Guidance-for-Artificial-Intelligence-Nov-29-2023.pdf
+- Weaver, A. (2023a). *AI hallucinations: How to reduce inaccurate content outputs*. Writer. https://writer.com/blog/ai-hallucinations/
+- Weaver, A. (2023b). *Why you can’t replace human insight: The importance of editorial skills in the AI era*. Writer. https://writer.com/blog/editorial-skills-and-ai/
+- Weaver, A. (2025). *Generative AI: Risks and Countermeasures for Businesses*. Writer. https://writer.com/blog/generative-ai-risks-and-countermeasures/
+- Wood, C. (2024). *AI detectors are easily fooled, researchers find*. EdScoop. https://edscoop.com/ai-detectors-are-easily-fooled-researchers-find/
+- Zhang, Y., & Li, X. (2025). *Technical Solutions for Reducing AI‑Detector Bias Toward ESL Students*. (Conference paper). 
