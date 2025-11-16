@@ -1,4 +1,4 @@
-## Appendix VI – Sample Policies 
+## Appendix IV – Sample Policies 
 
 *(Based on publicly available university AI‑policy examples)*
 
