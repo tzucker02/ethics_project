@@ -106,8 +106,6 @@ AI‑detectors, in their current form, **disproportionately penalize ELL student
 ---  
 
 *Prepared by Thomas Zucker‑Scharff*  
-*Date: [Insert submission date]*  
-*Course: [Insert course name]*  
-*Institution: [Insert institution name]*
-
-2 files
+*Date: November 15, 2025*  
+*Course: OMDS DX701*  
+*Institution: Boston University*
