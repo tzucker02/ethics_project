@@ -1,7 +1,7 @@
 # The following items can be found in this repository:
 
-| Name | Link | File Available | Grade Received |
-|-----|-----|-----|-----|
-| Initial Proposal | [Readme file](https://github.com/tzucker02/ethics_project/tree/main/Initial%20Proposal) | [(PDF)yes](https://github.com/tzucker02/ethics_project/raw/main/Initial%20Proposal/Zucker-Scharff_Thomas_M5W3.pdf) | 35/35 |
-| Case Study | [Readme file](https://github.com/tzucker02/ethics_project/tree/main/Case%20Studies) | [(PDF)yes](https://github.com/tzucker02/ethics_project/raw/main/Case%20Studies/Zucker-Scharff_Thomas_M5W7.pdf) | 35/35 |
-| Final Project | [Working Directory](https://github.com/tzucker02/ethics_project/tree/main/Final%20Paper) | [(PDF)yes](https://github.com/tzucker02/ethics_project/raw/main/Final%20Paper/Zucker-Scharff_Thomas_M5W13.pdf) | not yet graded |
+| Name | Link | File Available | File Type | Grade Received |
+|-----|-----|-----|-----|-----|
+| Initial Proposal | [Readme file](https://github.com/tzucker02/ethics_project/tree/main/Initial%20Proposal) | [yes](https://github.com/tzucker02/ethics_project/raw/main/Initial%20Proposal/Zucker-Scharff_Thomas_M5W3.pdf) | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a> | 35/35 |
+| Case Study | [Readme file](https://github.com/tzucker02/ethics_project/tree/main/Case%20Studies) | [yes](https://github.com/tzucker02/ethics_project/raw/main/Case%20Studies/Zucker-Scharff_Thomas_M5W7.pdf) | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a> |  35/35 |
+| Final Project | [Working Directory](https://github.com/tzucker02/ethics_project/tree/main/Final%20Paper) | [yes](https://github.com/tzucker02/ethics_project/raw/main/Final%20Paper/Zucker-Scharff_Thomas_M5W13.pdf) | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a> | not yet graded |
