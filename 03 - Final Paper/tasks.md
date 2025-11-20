@@ -1,5 +1,5 @@
 Table of Contents {#table-of-contents .TOC-Heading}
-- [Building a Policy Analysis - Week 8 Tasks](#8‑tasks)
+- [Building a Policy Analysis - Week 8 Tasks](#week-8‑tasks)
 - [Building a Policy Analysis - Week 9 Tasks](#9‑tasks)
 - [Building a Policy Analysis - Week 11 Tasks](#11‑tasks)
 
