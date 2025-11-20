@@ -80,7 +80,7 @@ Think about the **time and effort** needed for implementation; leadership struct
 
 ---
 
-## Presentation Instructions – 5‑10 Slides, 3 Minutes
+## Presentation Instructions — 5–10 Slides, 3 Minutes
 
 - **Slides:** 5–10  
 - **Length:** ~3 minutes total  
@@ -88,7 +88,7 @@ Think about the **time and effort** needed for implementation; leadership struct
 
 ---
 
-## Policy Analysis Paper – 8‑10 Pages (PDF)
+## Policy Analysis Paper — 8–10 Pages (PDF)
 
 - Upload a *PDF** of 8–10 pages (excluding title page, citations, and appendices).  
 - Anything beyond the limit will not be graded.  
