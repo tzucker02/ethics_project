@@ -1,7 +1,8 @@
 Table of Contents {#table-of-contents .TOC-Heading}
-[Building a Policy Analysis - Week 8 Tasks][8‑tasks]
-[Building a Policy Analysis - Week 9 Tasks][9‑tasks]
-[Building a Policy Analysis - Week 11 Tasks][11‑tasks]
+- [Building a Policy Analysis - Week 8 Tasks](#8‑tasks)
+- [Building a Policy Analysis - Week 9 Tasks](#9‑tasks)
+- [Building a Policy Analysis - Week 11 Tasks](#11‑tasks)
+
 [1. Identify the critiques][identify-critiques]
 [2. Evaluate their relevance:][evaluate-relevance]
 [3. Develop your rebuttal:][develop-rebuttal]
@@ -17,6 +18,8 @@ Table of Contents {#table-of-contents .TOC-Heading}
 [5. A strong advocacy for one or more policies to address the problem.][advocacy]
 [6. A specification of the level at which the policy would be implemented (e.g., international organizations, national governments, professional associations, or corporate watchdogs).][level]
 [7. A thoughtful anticipation of potential critiques of your policy, as well as consideration of any unintended negative consequences it might create.][critiques]
+
+### Week 8 Tasks
 Building a Policy Analysis - Week 8 Tasks
 For this week, you should research all of the currently proposed solutions.
 Examples: after the release of ChatGPT, several universities, companies, and governments created documents on how they would handle generative AI within their organizations. These solutions can serve as examples of what people are already thinking about on your given topic. It would be even better if you found proposed solutions in your home country or state. Remember that these proposals likely use special terminology to talk about the problem, which, if you research those, will help you to find other resources.
