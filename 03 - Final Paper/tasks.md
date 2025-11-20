@@ -139,7 +139,6 @@ Think about the **time and effort** needed for implementation; leadership struct
 - Outline **benefits for each stakeholder** (link back to the stakeholder section).
 
 ### How the ethical framework supports your policy
-*(Insert your analysis here.)*
 
 ### Compare your policy with other policies
 - State the **aim** of existing policies.  
