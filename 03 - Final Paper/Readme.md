@@ -21,6 +21,7 @@
 ---
 
 ## Week 8 Tasks
+
 ### Building a Policy Analysis
 
 **Goal:** Research *all* currently proposed solutions to your problem (e.g., university, corporate, or governmental AI‑policy documents).  
