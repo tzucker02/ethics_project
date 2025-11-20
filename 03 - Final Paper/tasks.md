@@ -1,7 +1,7 @@
 Table of Contents {#table-of-contents .TOC-Heading}
 - [Building a Policy Analysis - Week 8 Tasks](#week-8‑tasks)
-- [Building a Policy Analysis - Week 9 Tasks](#9‑tasks)
-- [Building a Policy Analysis - Week 11 Tasks](#11‑tasks)
+- [Building a Policy Analysis - Week 9 Tasks](#week-9‑tasks)
+- [Building a Policy Analysis - Week 11 Tasks](#week-11‑tasks)
 
 [1. Identify the critiques][identify-critiques]
 [2. Evaluate their relevance:][evaluate-relevance]
@@ -19,8 +19,8 @@ Table of Contents {#table-of-contents .TOC-Heading}
 [6. A specification of the level at which the policy would be implemented (e.g., international organizations, national governments, professional associations, or corporate watchdogs).][level]
 [7. A thoughtful anticipation of potential critiques of your policy, as well as consideration of any unintended negative consequences it might create.][critiques]
 
-### Week 8 Tasks
-Building a Policy Analysis - Week 8 Tasks
+## Week 8 Tasks
+### Building a Policy Analysis
 For this week, you should research all of the currently proposed solutions.
 Examples: after the release of ChatGPT, several universities, companies, and governments created documents on how they would handle generative AI within their organizations. These solutions can serve as examples of what people are already thinking about on your given topic. It would be even better if you found proposed solutions in your home country or state. Remember that these proposals likely use special terminology to talk about the problem, which, if you research those, will help you to find other resources.
 
@@ -32,7 +32,8 @@ You can use these proposals as a baseline for your final policy advocacy. You do
 
 As you prepare to submit your final policy analysis, you may review the rubric and checklist below to familiarize yourself with the assignment requirements. Please read through both documents carefully, and bring any questions you have to the teaching team. More information will be provided in Week 11.
 
-Building a Policy Analysis - Week 9 Tasks
+## Week 9 Tasks
+### Building a Policy Analysis
 Last week you identified policy examples from various contexts. Now reflect on the level of these policies and answer the following questions:
 
 Are these policies proposed at a national, state/provincial, local, or business/organizational level?
@@ -48,7 +49,8 @@ For government‑based policies, think about how the government will best deploy
 For business or university‑based policies, consider organizational structures and leadership roles.
 Finally, reflect on the time and effort required for implementation. Remember, the leadership structure of an organization or government affects how quickly a policy can be enacted.
 
-Building a Policy Analysis - Week 11 Tasks
+## Week 11 Tasks
+### Building a Policy Analysis
 A key part of your proposal is addressing potential critiques of your policy. Since you have examined other policies in your impact area, you may already be aware of some critiques that could also apply to yours. This week, consider the following questions:
 
 Identify the critiques
