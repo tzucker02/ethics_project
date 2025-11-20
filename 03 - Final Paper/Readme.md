@@ -1,7 +1,8 @@
 ## Table of Contents
 
 - [Week 8 Tasks](#week-8-tasks)  
-- [Week 9 Tasks](#week-9-tasks)  
+- [Week 9 Tasks](#week-9-tasks)
+- [Week 10 Tasks](#week-10-tasks) 
 - [Week 11 Tasks](#week-11-tasks)  
   - [Identify the Critiques](#identify-the-critiques)  
   - [Evaluate Their Relevance](#evaluate-their-relevance)  
@@ -59,6 +60,25 @@ Reflect on the **level** of the policies you collected and answer:
 - **Business/University policies:** What organizational structures and leadership roles are required?  
 
 Think about the **time and effort** needed for implementation; leadership structure influences how quickly a policy can be enacted.
+
+---
+
+## Week 10 Tasks
+
+### Building a Policy Analysis
+
+As you develop your policy, consider which ethical framework has been most helpful to guide your thinking. The primary ethical frameworks we’ve discussed include: 
+
+- Consequence-based theories (e.g., utilitarianism) 
+- Duty-based theories  
+- Contract-based theories 
+- Character-based theories (e.g., virtue ethics)
+
+When articulating and defending your policy, reflect on which framework aligns *best* with your proposal. For example: 
+
+A policy focused on monitoring pollution might align with consequence-based theories, emphasizing the greatest good for the greatest number. 
+A policy centered on training and education could align with character-based theories, focusing on cultivating virtuous behavior. 
+Therefore, this week’s task is to choose and apply an ethical framework in your paper, clearly explaining how it aligns with your proposed policy. 
 
 ---
 
