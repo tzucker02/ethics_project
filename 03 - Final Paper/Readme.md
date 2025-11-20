@@ -1,6 +1,6 @@
 ### Table of Contents
 
-- [Building a Policy Analysis – Week 8 Tasks](#week-8-tasks)
+- [Building a Policy Analysis – Week 8 Tasks](#week-8)
 - [Building a Policy Analysis – Week 9 Tasks](#week-9-tasks)
 - [Building a Policy Analysis – Week 11 Tasks](#week-11-tasks)
   - [Identify the critiques](#identify-the-critiques)
@@ -22,7 +22,7 @@
 
 ---
 
-## Week 8 Tasks
+## Week 8
 ### Building a Policy Analysis
 
 **Goal:** Research *all* currently proposed solutions to your problem (e.g., university, corporate, or governmental AI‑policy documents).  
