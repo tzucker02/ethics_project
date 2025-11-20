@@ -4,19 +4,20 @@ Copy the entire block (including the opening and closing triple back‑ticks) in
 
 # Table of Contents {#table-of-contents .TOC-Heading}
 
-- [Building a Policy Analysis – Week 8 Tasks](#building-a-policy-analysis---week-8-tasks)
-- [Building a Policy Analysis – Week 9 Tasks](#building-a-policy-analysis---week-9-tasks)
-- [Building a Policy Analysis – Week 11 Tasks](#building-a-policy-analysis---week-1-tasks)
-- [Identify the critiques](#identify-the-critiques)
-- [Evaluate their relevance](#evaluate-their-relevance)
-- [Develop your rebuttal](#develop-your-rebuttal)
-- [Presentation Instructions – 5‑10 slides, 3 minutes](#presentation-instructions)
-- [Policy Analysis Paper – 8‑10 pages (PDF)](#policy-analysis-paper)
-- [Building a Policy Analysis – Week 12 Tasks](#building-a-policy-analysis---week-12-tasks)
-- [Revise for clarity and persuasion](#revise-for-clarity-and-persuasion)
+- [Building a Policy Analysis – Week 8 Tasks](#week-8-tasks)
+- [Building a Policy Analysis – Week 9 Tasks](#week-9-tasks)
+- [Building a Policy Analysis – Week 11 Tasks](#week-11-tasks)
+  - [Identify the critiques](#identify-the-critiques)
+  - [Evaluate their relevance](#evaluate-their-relevance)
+  - [Develop your rebuttal](#develop-your-rebuttal)
+  - [Presentation Instructions – 5‑10 slides, 3 minutes](#presentation-instructions)
+  - [Policy Analysis Paper – 8‑10 pages (PDF)](#policy-analysis-paper)
+- [Building a Policy Analysis – Week 12 Tasks](#week-12-tasks)
+  - [Revise for clarity and persuasion](#revise-for-clarity-and-persuasion)
   - [Does the order of sections flow smoothly?](#section-order)
   - [How can I best present my argument?](#present-argument)
-- [Address key elements](#address-key-elements)
+- [Discord Commentary](#discord-commentary)
+  - [Address key elements](#address-key-elements)
   - [Ethical problem & stakeholders](#ethical-problem)
   - [Relevant ethical principles](#ethical-principles)
   - [Advocacy for policy(ies)](#policy-advocacy)
@@ -25,7 +26,8 @@ Copy the entire block (including the opening and closing triple back‑ticks) in
 
 ---
 
-## Building a Policy Analysis – Week 8 Tasks
+## Week 8 Tasks
+### Building a Policy Analysis
 
 **Goal:** Research *all* currently proposed solutions to your problem (e.g., university, corporate, or governmental AI‑policy documents).  
 
@@ -44,7 +46,8 @@ You may use these proposals as a baseline for your final policy advocacy. You do
 
 ---
 
-## Building a Policy Analysis – Week 9 Tasks
+## Week 9 Tasks
+### Building a Policy Analysis
 
 Reflect on the **level** of the policies you collected and answer:
 
@@ -63,7 +66,8 @@ Think about the **time and effort** needed for implementation; leadership struct
 
 ---
 
-## Building a Policy Analysis – Week 11 Tasks
+## Week 11 Tasks
+### Building a Policy Analysis
 
 ### Identify the critiques
 - List the most significant criticisms of your proposed policy.
@@ -95,7 +99,8 @@ Think about the **time and effort** needed for implementation; leadership struct
 
 ---
 
-## Building a Policy Analysis – Week 12 Tasks
+## Week 12 Tasks
+### Building a Policy Analysis
 
 1. **Citations**  
    - Minimum **12** credible sources.  
