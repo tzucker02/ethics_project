@@ -3,7 +3,7 @@
 - [Building a Policy Analysis - Week 9 Tasks](#week-9‑tasks)
 - [Building a Policy Analysis - Week 11 Tasks](#week-11‑tasks)
 - [Building a Policy Analysis - Week 12 Tasks](#week-12‑tasks)
-- [Discord Commentary](discord-commentary)
+- [Discord Commentary](#discord-commentary)
 
 ## Week 8 Tasks
 ### Building a Policy Analysis
