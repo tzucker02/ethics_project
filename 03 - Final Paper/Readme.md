@@ -10,12 +10,12 @@
   - [Policy Analysis Paper — 8–10 Pages (PDF)](#policy-analysis-paper) 
 - [Week 12 Tasks](#week-12-tasks)  
 - [Discord Commentary](#discord-commentary)
-  - [Address key elements](#address-key-elements)
-  - [Ethical problem & stakeholders](#ethical-problem)
-  - [Relevant ethical principles](#ethical-principles)
-  - [Advocacy for policy(ies)](#policy-advocacy)
-  - [Implementation level](#implementation-level)
-  - [Anticipate critiques & unintended effects](#anticipate-critiques)
+  - Address key elements
+  - Ethical problem & stakeholders
+  - Relevant ethical principles
+  - Advocacy for policy(ies)
+  - Implementation level
+  - Anticipate critiques & unintended effects
 - [Submission](#submission)  
 - [Contact / Questions](#contact--questions)
 ---
