@@ -1,4 +1,4 @@
-### Table of Contents
+## Table of Contents
 
 - [Week 8 Tasks](#week-8-tasks)  
 - [Week 9 Tasks](#week-9-tasks)  
