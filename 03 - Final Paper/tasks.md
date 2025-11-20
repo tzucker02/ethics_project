@@ -1,8 +1,4 @@
-Below is a cleaned‑up, GitHub‑compatible Markdown version of the task‑list.docx you uploaded.
-All headings, lists, and internal links are formatted so they render correctly on GitHub.
-Copy the entire block (including the opening and closing triple back‑ticks) into a file named TASKS.md (or any name you prefer) in your repository.
-
-# Table of Contents {#table-of-contents .TOC-Heading}
+### Table of Contents
 
 - [Building a Policy Analysis – Week 8 Tasks](#week-8-tasks)
 - [Building a Policy Analysis – Week 9 Tasks](#week-9-tasks)
