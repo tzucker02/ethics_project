@@ -20,7 +20,7 @@
 - [Contact / Questions](#contact--questions)
 ---
 
-## Week 8 Tasks
+## Week 8 Tasks
 
 ### Building a Policy Analysis
 
