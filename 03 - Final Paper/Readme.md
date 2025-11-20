@@ -41,7 +41,8 @@ You may use these proposals as a baseline for your final policy advocacy. You do
 
 ---
 
-## Week 9 Tasks
+## Week 9 Tasks
+
 ### Building a Policy Analysis
 
 Reflect on the **level** of the policies you collected and answer:
@@ -61,7 +62,8 @@ Think about the **time and effort** needed for implementation; leadership struct
 
 ---
 
-## Week 11 Tasks
+## Week 11 Tasks
+
 ### Building a Policy Analysis
 
 ### Identify the critiques
@@ -94,7 +96,8 @@ Think about the **time and effort** needed for implementation; leadership struct
 
 ---
 
-## Week 12 Tasks
+## Week 12 Tasks
+
 ### Building a Policy Analysis
 
 1. **Citations**  
@@ -145,6 +148,21 @@ Think about the **time and effort** needed for implementation; leadership struct
 - **Tangible impact** on each stakeholder.  
 - **Why** that impact matters to them.  
 - **Benefits** they would receive (mitigation, prevention of recurrence).
+
+---
+
+## Submission
+
+- Filename convention: [Lastname_Firstname_FinalPaper.pdf] (example)  
+- Where to upload: [Specify submission method — e.g., Blackboard, Google Drive link, or GitHub Releases].  
+- Deadline: [insert deadline/time zone].  
+- Note: Confirm whether you need to submit the slides and/or source files in addition to the PDF.
+
+---
+
+## Contact / Questions
+
+If you have questions about the assignment or rubric, contact [Instructor Name / TA] or open an issue in this repo.
 
 ### Implementation of the policy
 - **Where/which level** the policy will be enacted.  
