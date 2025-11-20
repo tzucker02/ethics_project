@@ -1,6 +1,6 @@
 ### Table of Contents
 
-- [Week 8 Tasks](#week-8-tasks)
+- [Building a Policy Analysis Week 8 Tasks](#week-8-tasks)
 - [Building a Policy Analysis – Week 9 Tasks](#week-9-tasks)
 - [Building a Policy Analysis – Week 11 Tasks](#week-11-tasks)
   - [Identify the critiques](#identify-the-critiques)
