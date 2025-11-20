@@ -1,17 +1,14 @@
 ### Table of Contents
 
-- [Week 8 Tasks](#week-8-tasks)
-- [Building a Policy Analysis – Week 9 Tasks](#week-9-tasks)
-- [Building a Policy Analysis – Week 11 Tasks](#week-11-tasks)
-  - [Identify the critiques](#identify-the-critiques)
-  - [Evaluate their relevance](#evaluate-their-relevance)
-  - [Develop your rebuttal](#develop-your-rebuttal)
-  - [Presentation Instructions – 5‑10 slides, 3 minutes](#presentation-instructions)
-  - [Policy Analysis Paper – 8‑10 pages (PDF)](#policy-analysis-paper)
-- [Building a Policy Analysis – Week 12 Tasks](#week-12-tasks)
-  - [Revise for clarity and persuasion](#revise-for-clarity-and-persuasion)
-  - [Does the order of sections flow smoothly?](#section-order)
-  - [How can I best present my argument?](#present-argument)
+- [Week 8 Tasks](#week-8-tasks)  
+- [Week 9 Tasks](#week-9-tasks)  
+- [Week 11 Tasks](#week-11-tasks)  
+  - [Identify the Critiques](#identify-the-critiques)  
+  - [Evaluate Their Relevance](#evaluate-their-relevance)  
+  - [Develop Your Rebuttal](#develop-your-rebuttal)  
+  - [Presentation Instructions — 5–10 Slides, 3 Minutes](#presentation-instructions)  
+  - [Policy Analysis Paper — 8–10 Pages (PDF)](#policy-analysis-paper)  
+- [Week 12 Tasks](#week-12-tasks)  
 - [Discord Commentary](#discord-commentary)
   - [Address key elements](#address-key-elements)
   - [Ethical problem & stakeholders](#ethical-problem)
@@ -19,7 +16,8 @@
   - [Advocacy for policy(ies)](#policy-advocacy)
   - [Implementation level](#implementation-level)
   - [Anticipate critiques & unintended effects](#anticipate-critiques)
-
+- [Submission](#submission)  
+- [Contact / Questions](#contact--questions)
 ---
 
 ## Week 8 Tasks
