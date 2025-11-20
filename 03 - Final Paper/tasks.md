@@ -2,22 +2,8 @@
 - [Building a Policy Analysis - Week 8 Tasks](#week-8‑tasks)
 - [Building a Policy Analysis - Week 9 Tasks](#week-9‑tasks)
 - [Building a Policy Analysis - Week 11 Tasks](#week-11‑tasks)
-
-[1. Identify the critiques][identify-critiques]
-[2. Evaluate their relevance:][evaluate-relevance]
-[3. Develop your rebuttal:][develop-rebuttal]
-[Presentation Instructions – 5‑10 slides, 5‑10 minutes][presentation]
-[Policy Analysis Paper instructions – 8‑10 pages in PDF][paper‑instr]
-[Building a Policy Analysis - Week 12 Tasks][12‑tasks]
-[Revise for clarity and persuasion:][revise]
-[1. Does the order of sections flow smoothly?][flow]
-[2. How can I best present my argument to convince the reader that this policy is worthwhile?][convince]
-[Address key elements:][key‑elements]
-[3. A clear identification of the ethical problem and the stakeholders involved.][eth‑problem]
-[4. An explanation of the ethical principles that are relevant to the issue.][eth‑principles]
-[5. A strong advocacy for one or more policies to address the problem.][advocacy]
-[6. A specification of the level at which the policy would be implemented (e.g., international organizations, national governments, professional associations, or corporate watchdogs).][level]
-[7. A thoughtful anticipation of potential critiques of your policy, as well as consideration of any unintended negative consequences it might create.][critiques]
+- [Building a Policy Analysis - Week 12 Tasks](#week-12‑tasks)
+- [Discord Commentary](discord-commentary)
 
 ## Week 8 Tasks
 ### Building a Policy Analysis
@@ -72,7 +58,8 @@ Your presentation should have 5‑10 slides with a total duration of 3 minutes. 
 Policy Analysis Paper instructions — 8‑10 pages in PDF
 Your paper should be uploaded as a PDF document of 8‑10 pages. Title pages, citations, and appendices do not count towards this page limit. However, any main‑body content that goes past this limit will not be graded. Please include the links to your full conversations with the AI tools used (if any) in the appendix.
 
-Building a Policy Analysis - Week 12 Tasks
+## Week 12 Tasks
+### Building a Policy Analysis
 Include citations from at least 12 relevant and credible sources.
 Format these citations in APA style and include a bibliography.
 Your bibliography should ideally list all resources you consulted, even if they were not explicitly cited in your paper.
@@ -90,7 +77,9 @@ A strong advocacy for one or more policies to address the problem.
 A specification of the level at which the policy would be implemented (e.g., international organizations, national governments, professional associations, or corporate watchdogs).
 A thoughtful anticipation of potential critiques of your policy, as well as consideration of any unintended negative consequences it might create.
 Remember, revising your paper is not just about polishing the text—it's about refining your argument to ensure it is clear, persuasive, and well‑supported by evidence. Take the time to make your case compelling and grounded in ethical reasoning.
-DISCORD Commentary
+
+## DISCORD Commentary
+
 Applying the ethical framework to the problem
 Look at the ethical framework; take those principles and apply them to the problem at hand.
 Connect the problem to ethical principles that were discussed in the Tavani textbook and lecture.
