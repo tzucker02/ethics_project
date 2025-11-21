@@ -189,3 +189,12 @@ If you have questions about the assignment or rubric, contact [Instructor Name /
 - **Resources needed** (people, technology, funding).  
 - **Time & effort** estimates (benchmark against similar policies).  
 - **Barriers & challenges** (legal, financial, cultural) and mitigation strategies.
+
+## other files
+- [Appendix 1 - AI Usage]
+- [Appendix 2 - ]
+- [Appendix 3 - ]
+- [Appendix 4 - ]
+- [Appendix 5 - ]
+- [Appendix 6 - ]
+- [Potential Objections/Critiques]
