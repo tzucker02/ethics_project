@@ -7,5 +7,6 @@
 | Final Project | [Readme file](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Readme.md) | no | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a> | not yet graded |
 | Presentation for Final Project | Not yet Available |  no | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a> | not yet graded |
 <!--
+
 [Powerpoint file](https://github.com/tzucker02/ethics_project/raw/main/Presentation/Zucker-Scharff_Thomas_M5W13.pptx)
 -->
