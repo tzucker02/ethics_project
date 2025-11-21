@@ -200,3 +200,4 @@ If you have questions about the assignment or rubric, contact [Instructor Name /
 - [Appendix 6 - Timeline](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/appendix6_Timeline.md)
 - [Bibliography](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/bibliography.md)
 - [Potential Objections/Critiques](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/potential_objections_critiques.md)
+- [Final Paper Readme](https://github.com/tzucker02/ethics_project/blob/main/README.md)
