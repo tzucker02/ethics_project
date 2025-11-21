@@ -13,5 +13,3 @@
 | **State Education Agency**     | High  | Low‑Medium | Keep Satisfied | - Submit compliance summary |
 | **Student Government**         | Low‑Medium | High | Keep Informed | - Invite to review meetings |
 | **General Public / Media**     | Low   | Low      | Monitor       | - Prepare press kit (on‑demand) |
-
-4 files
