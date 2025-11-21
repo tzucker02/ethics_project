@@ -193,9 +193,10 @@ If you have questions about the assignment or rubric, contact [Instructor Name /
 
 ## other files
 - [Appendix 1 - AI Usage](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper%2FAppendices%2Fappendice1_AIUSAGE.md)
-- [Appendix 2 - ]
-- [Appendix 3 - ]
-- [Appendix 4 - ]
-- [Appendix 5 - ]
-- [Appendix 6 - ]
-- [Potential Objections/Critiques]
+- [Appendix 2 - AI Usage full conversation](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/appendix2_AI%20Usage_FullConversation.md)
+- [Appendix 3 - Stakeholders Quadrant](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/appendix3_StakeholderQuadrant.md)
+- [Appendix 4 - Alternate Solutions](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/appendix4_AlternateSolutions.md)
+- [Appendix 5 - Sample Policies](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/appendix5_samplepolicies.md)
+- [Appendix 6 - Timeline](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/appendix6_Timeline.md)
+- [Bibliography](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/bibliography.md)
+- [Potential Objections/Critiques](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper/Appendices/potential_objections_critiques.md)
