@@ -192,7 +192,7 @@ If you have questions about the assignment or rubric, contact [Instructor Name /
 - **Barriers & challenges** (legal, financial, cultural) and mitigation strategies.
 
 ## other files
-- [Appendix 1 - AI Usage]
+- [Appendix 1 - AI Usage](https://github.com/tzucker02/ethics_project/blob/main/03%20-%20Final%20Paper%2FAppendices%2Fappendice1_AIUSAGE.md)
 - [Appendix 2 - ]
 - [Appendix 3 - ]
 - [Appendix 4 - ]
