@@ -19,6 +19,7 @@
   - Anticipate critiques & unintended effects
 - [Submission](#submission)  
 - [Contact / Questions](#contact--questions)
+- [Other files](#other-files)
 ---
 
 ## Week 8 Tasks
