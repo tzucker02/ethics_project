@@ -1,7 +1,7 @@
 ## Appendix IV – AI Detector Suggestions – Things to Look Out For
 
 A few items to take into account when selecting an AI‑detection tool (these can save you time):
-### Cost – 
+### Cost
 - How much does it cost to use this AI detector?
 - If there is a free trial, how long does it last?
 - Is there a limit to the amount of text you can submit?
