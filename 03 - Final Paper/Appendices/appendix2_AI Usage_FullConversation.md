@@ -1,3 +1,4 @@
+# *!NO LONGER USED!*
 # Appendix II – AI Usage – full conversation
 
 Below each rubric section I've noted how the paper performs, assigned the appropriate point band, and offered concrete suggestions for improvement. Scores are summed at the end for the final percentage.
